@@ -1,4 +1,4 @@
-import jsonn
+import json
 
 with open('./cos/static/rrjournals.json') as data_file:
     data = json.load(data_file)
